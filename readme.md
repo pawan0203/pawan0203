@@ -51,7 +51,7 @@ Converts natural-language questions into safe, executable PostgreSQL queries, wi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawan0203&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=pawan0203&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan0203&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
