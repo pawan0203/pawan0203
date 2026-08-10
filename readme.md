@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Pawan Maharwal 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer (MERN) | 🎓 MCA Student @ BVICAM</h3>
+<h3 align="center">🚀 Full-Stack Developer (MERN) | 🎓 MCA Graduate @ BVICAM</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA6DA&center=true&vCenter=true&width=500&lines=Building+full-stack+web+apps;Node.js+%7C+React+%7C+MongoDB;Always+learning+something+new" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Pursuing **MCA** at Bharati Vidyapeeth's Institute of Computer Applications and Management *(CGPA: 8)*
+- 🎓 **MCA** from Bharati Vidyapeeth's Institute of Computer Applications and Management.
 - 💻 Full-Stack Developer — building scalable, secure & efficient apps
 - 🌱 Currently leveling up in **DSA, DevOps & Cloud**
 - 📍 Based in Jaipur, Rajasthan
@@ -51,7 +51,7 @@ Converts natural-language questions into safe, executable PostgreSQL queries, wi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=pawan0203&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=pawan0203&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan0203&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
