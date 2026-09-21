@@ -55,22 +55,6 @@ Full-stack developer focused on building scalable, secure and efficient web appl
 | **RoomBuddy** | Jan 2025 – Jun 2025 | Full-stack platform helping students find rooms and roommates, with real-time listings and secure JWT + Crypto-based authentication. | Node.js, Express.js, MongoDB, JWT |
 | **AI–SQL Assistant** | Jun 2025 – Jul 2025 | Converts natural-language questions into safe, executable PostgreSQL queries, with live schema fetching and SELECT-only safety validation. | React, Node.js, Express.js, MongoDB, Gemini API, JWT |
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pawan0203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan0203&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pawan0203&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan0203&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
----
 
 <p align="center">
   <i>"Building scalable, secure and efficient applications, one commit at a time."</i>
